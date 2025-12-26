@@ -3,7 +3,7 @@
 
 
 ## 游戏说明
-![游戏界面](Interface.png)
+<img src="Interface.png" width="450" height="350">
 
 - 鼠标点击【Play】或者按下 P 键开始游戏，按下 Q 键则退出游戏
 - 屏幕左上角显示剩余飞船数量
